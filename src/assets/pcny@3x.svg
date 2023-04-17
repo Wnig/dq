@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>pcny@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-393.000000, -4893.000000)" fill="#16A5EC" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(392.000000, 4637.000000)">
+                <g id="pcny" transform="translate(4.000000, 258.000000)">
+                    <path d="M40.95,38.85 L75,38.85 L75,36.15 C75,26.55 67.2,18.75 57.6,18.75 C48.375,18.75 40.7999999,25.95 40.2,35.025 C39.825,34.575 39.375,34.275 38.85,34.05 L38.85,0 L36.15,0 C26.55,0 18.75,7.80000002 18.75,17.4 C18.75,26.625 25.95,34.2000001 35.025,34.8 C34.575,35.175 34.275,35.625 34.05,36.15 L0,36.15 L0,38.85 C0,48.45 7.80000002,56.25 17.4,56.25 C26.625,56.25 34.2000001,49.05 34.8,39.975 C35.175,40.425 35.625,40.725 36.15,40.95 L36.15,75 L38.85,75 C48.45,75 56.25,67.2 56.25,57.6 C56.25,48.375 49.05,40.7999999 39.975,40.2 C40.425,39.825 40.725,39.375 40.95,38.85 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

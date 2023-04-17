@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>pccy@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1443.000000, -4889.000000)" fill="#16A5EC" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(392.000000, 4637.000000)">
+                <g id="pccy" transform="translate(1057.000000, 258.000000)">
+                    <path d="M59.8951175,55 C64.2405063,49.7361478 67.1699819,43.2189974 68,36 L41,36 L59.8951175,55 Z" id="Shape"></path>
+                    <path d="M31.3532609,4 C13.9891304,4.34224599 0,18.5210084 0,35.9755539 C0,53.6745607 14.3315217,68 32.0380435,68 C40.548913,68 48.2282609,64.6264324 54,59.2482811 L31.4021739,36.4644767 L31.4021739,4 L31.3532609,4 Z" id="Shape"></path>
+                    <path d="M67,30.6057234 C67,13.7011129 53.3206349,0 36.4428571,0 L36,0 L36,31 L66.9507937,31 C66.9507937,30.9014308 67,30.7535771 67,30.6057234 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
